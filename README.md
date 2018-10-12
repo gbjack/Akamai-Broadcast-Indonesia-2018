@@ -1,2 +1,2 @@
 # Broadcast Indonesia 2018
-![Preview image]("https://github.com/gbjack/Akamai-Broadcast-Indonesia-2018/blob/master/img/preview.png")
+![Preview image](https://www.threesquare.space/edm/2018/akamai/broadcast-indonesia/img/preview.png)
